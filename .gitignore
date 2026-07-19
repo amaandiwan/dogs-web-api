@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+/dog-api/node_modules
+/dog-client/node_modules
