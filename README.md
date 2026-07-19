@@ -2,6 +2,7 @@
 Dogs Web API Code Test The Scenario You are a freelance web developer. A client brings you a list of dogs (use the dogs.json file associated with this test), and wants you to make the list viewable, and editable, via the internet.
 
 # follow below instruction to run React Web App
+![UI](images/screenshot.png)
 # you must have node.js and mysql install in your system
 # Run node server
 cd dog-api
